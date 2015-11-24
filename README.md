@@ -3,6 +3,6 @@
 Git
 ===
 **Adding a file to staging area**
-`$ git add file1.txt
+`$ git add file1.txt`
 
 
